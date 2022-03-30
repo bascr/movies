@@ -1,6 +1,6 @@
 # Movie Service
 
-This simple Movie Rest Service is built on top of Spring Boot and it can be use as a tutorial example. 
+This simple Movie Rest Service is built on top of Spring Boot and it can be used as a tutorial example. 
 
 ### Requirements
 
